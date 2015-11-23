@@ -101,7 +101,7 @@
 }
 
 .card__copy {
-	font-size: 1.25em;
+	font-size: 1.5em;
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 25px 30px 100px;
@@ -109,7 +109,7 @@
 }
 
 .card__copy p:first-of-type {
-	font-size: 1em;
+	/*font-size: 1em;*/
 	padding: 0 0 1em 0;
 }
 
