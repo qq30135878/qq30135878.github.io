@@ -171,6 +171,10 @@
 		padding-right: 20px;
 		padding-left: 20px;
 	}
+	.card__copy {
+		font-size: 70%;
+		padding: 25px 0px 100px;
+	}
 }
 
 @media only screen and (max-width: 580px) {
