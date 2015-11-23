@@ -1,7 +1,7 @@
 # Site settings
 title: Music Code Me
-description: Bin Zhang's blog
+description: 张斌的博客
 keywords: Code, Music, Blogging, Fun
-author: Bin Zhang
+author: 张斌
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://musiccode.me" # the base hostname & protocol for your site
