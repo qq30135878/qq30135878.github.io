@@ -33,7 +33,7 @@ date:   2015-11-22 23:01:12
 
 这张图片很好的诠释了git workflow
 
-![git workflow]({{site.url}}/img/git-workflow.png)
+![git workflow]({{site.url}}/content/images/git-workflow.png)
 
 
 ***PS：以上规定是针对我们自己公司的自己项目制定的，不是教条式一成不变的，请根据自己的项目进行调整。***
