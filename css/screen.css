@@ -862,7 +862,7 @@ body.user article .readmore {
     box-shadow: white 0 0 14px;
     white-space: nowrap;
     filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
-    opacity: 0;
+    /*opacity: 0;*/
     -webkit-transition-property: opacity, visibility, color;
     -moz-transition-property: opacity, visibility, color;
     -o-transition-property: opacity, visibility, color;
