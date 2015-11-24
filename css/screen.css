@@ -855,7 +855,7 @@ body.user article .readmore {
     *display: inline;
     font-size: 13px;
     line-height: 1em;
-    color: #a4adb6;
+    color: #d35c5c;
     border-bottom: 1px solid #ededee;
     -webkit-box-shadow: white 0 0 14px;
     -moz-box-shadow: white 0 0 14px;
@@ -873,7 +873,7 @@ body.user article .readmore {
     transition-duration: 0.5s
 }
 body.user article .readmore:hover {
-    color: #21272d
+    color: #d35c5c
 }
 body.user article:hover .readmore {
     filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
