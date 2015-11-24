@@ -10,6 +10,8 @@ body_class: post-template
 </div>
 {% endif %}
 
+<base target="_blank">
+
 <article role="main" class="{% if page.image %}image{% endif %}">
     <header>
       <a href="{{ site.baseurl }}/" id="home_link">«</a>
@@ -37,7 +39,7 @@ body_class: post-template
     {% include follow-me.html %}
     <br/>
     <br/>
-    
+
     {% include footer.html %}
 
 </article>
