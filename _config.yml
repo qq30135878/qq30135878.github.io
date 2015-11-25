@@ -4,8 +4,8 @@ logo: bin.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-7
 email: 30135878@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   All work and no play makes Jack a dull boy; all play and no work makes Jack a mere boy.
-  <br/>All the wit in the world is not in one head.
-  <br/>A bad bush is better than the open field.
+  <br/>联系我:
+  <br/>30135878@qq.com
 url: "http://www.musiccode.me" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 # twitter_username: jekyllrb
