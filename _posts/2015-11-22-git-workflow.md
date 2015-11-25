@@ -50,7 +50,3 @@ date:   2015-11-22 23:01:12
 [Atlassian Git Workflow](https://www.atlassian.com/git)
 
 [Nvie's Post](http://nvie.com/posts/a-successful-git-branching-model)
-
-------
-
-
