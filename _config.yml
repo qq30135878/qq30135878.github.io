@@ -5,7 +5,8 @@ email: 30135878@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   All work and no play makes Jack a dull boy; all play and no work makes Jack a mere boy.
   <br/>联系我:
-  <br/>30135878@qq.com
+  <br/>邮箱：30135878@qq.com
+  <br/>微信号：Archer
 url: "http://www.musiccode.me" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 # twitter_username: jekyllrb
