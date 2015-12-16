@@ -4,7 +4,7 @@ title:  "Git更好，不过需要工作流"
 subtitle: "The better tools, the better work!"
 author: "张斌"
 avatar: "authors/bin.png"
-image: "git-workflow-cover.png"
+image: "git-workflow/git-workflow-cover.jpg"
 date:   2015-11-22 23:01:12
 ---
 
@@ -40,7 +40,7 @@ date:   2015-11-22 23:01:12
 
 这张图片很好的诠释了git workflow
 
-![git workflow]({{site.url}}/content/images/git-workflow.png)
+![git workflow]({{site.url}}/content/images/git-workflow/git-workflow.jpg)
 
 
 ***PS：以上规定是针对我们自己公司的自己项目制定的，不是教条式一成不变的，请根据自己的项目进行调整。***
