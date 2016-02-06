@@ -20,7 +20,7 @@ date:   2015-11-22 23:01:12
 * master：用来最终上线的分支，该分支是比较神圣的，不能轻易做合并，做合并后必然产生版本号和tag。
 * develop：用来开发的分支，比较弹性，最后的功能都需要汇总到develop分支。
 
-####feature，fix，improve和release####
+#### feature，fix，improve和release
 其次是feature，fix，improve，release分支，这些分支是从develop分岔的，临时的，合并后就能删除。分支用这些单词开头，后跟中划线－，名字需要有意义，不能是feature-1，feature-2这样无意义的命名。
 
 * feature：开发新功能的分支，从develop分岔出来。
@@ -40,7 +40,7 @@ date:   2015-11-22 23:01:12
 
 这张图片很好的诠释了git workflow
 
-![git workflow]({{site.url}}/content/images/git-workflow/git-workflow.jpg)
+![git workflow](./content/images/git-workflow/git-workflow.jpg)
 
 
 ***PS：以上规定是针对我们自己公司的自己项目制定的，不是教条式一成不变的，请根据自己的项目进行调整。***
