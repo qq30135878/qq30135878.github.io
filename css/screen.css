@@ -1510,8 +1510,8 @@ body.touch.user article .readmore {
 }
 @media only screen and (max-width: 480px) {
     article {
-        margin-top: 40px;
-        padding: 0 20px
+        margin-top: 0px;
+        padding: 10px
     }
     article header {
         margin-bottom: 30px
@@ -1523,7 +1523,7 @@ body.touch.user article .readmore {
         padding: 0 10px
     }
     article .text ul li, article .text ol li {
-        margin: 15px 10px
+        margin: 5px 0px
     }
     article .text h1 {
         font-size: 26px
