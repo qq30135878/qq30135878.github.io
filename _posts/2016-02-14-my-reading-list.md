@@ -5,6 +5,7 @@ subtitle: "Reading makes a full man"
 author: "张斌"
 avatar: "authors/bin.png"
 image: "my-reading-list/kindle.jpg"
+date:   2016-01-01 00:00:00
 ---
 
 Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其实这个目标是相当容易的。我把我阅读过的书都列出来（倒序），给出封面和购买链接，和读完后的一句话感受。会持续更新...
@@ -107,7 +108,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 ![](./content/images/my-reading-list/B013JOBWZU.jpg)
 
-2016-02 读后感想：我猜想他在下一盘很大的棋：火星没有石油所以在火星上你得依靠SolarCity的太阳能技术；火星上氧气比较稀薄就算有石油，内燃机也烧不起来，所有设备都是电池驱动，特斯拉的电池和充电技术是驱动所有火星上设备的关键技术；SpaceX掌握往返火星的关键技术。最后Elon Musk将在火星建立基地，整个火星属于Elon Musk，他将是火星之王。其实我在开玩笑，总之一句话：成为伟大的人必须要有伟大的梦想（MTP, Massive Transformative Purpose）。另外让我感动的是，优秀的人容易相互吸引，成为朋友，在关键时刻不放弃，力挺朋友，成就朋友。
+2016-02 读后感想：我猜想他在下一盘很大的棋：火星没有石油所以在火星上你得依靠SolarCity的太阳能技术；火星上氧气比较稀薄就算有石油，内燃机也烧不起来，所有设备都是电池驱动，特斯拉的电池和充电技术是驱动所有火星上设备的关键技术；SpaceX掌握往返火星的关键技术。最后Elon Musk将在火星建立基地，整个火星属于Elon Musk，他将是火星之王。其实我在开玩笑，总之一句话：成为伟大的人必须要有伟大的梦想（MTP, Massive Transformative Purpose）。另外让我感动的是，优秀的人容易相互吸引，成为朋友，在关键时刻不放弃，力挺朋友，成就朋友。[更多内容](./im-going-to-retire-on-mars)
 
 ---
 
