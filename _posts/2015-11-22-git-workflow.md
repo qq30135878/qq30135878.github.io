@@ -5,7 +5,6 @@ subtitle: "The better tools, the better work!"
 author: "张斌"
 avatar: "authors/bin.png"
 image: "git-workflow/git-workflow-cover.jpg"
-date:   2015-11-22 23:01:12
 ---
 
 ### 前言
