@@ -6,7 +6,7 @@ author: "张斌"
 avatar: "authors/bin.png"
 ---
 
-##以下是截图
+## 以下是截图
 
 ![](./content/images/the-alliance/screenshot_2016_02_13T16_19_18+0759.png)
 ![](./content/images/the-alliance/screenshot_2016_02_13T16_25_34+0759.png)
