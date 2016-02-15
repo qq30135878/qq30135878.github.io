@@ -5,7 +5,6 @@ subtitle: "Reading makes a full man"
 author: "张斌"
 avatar: "authors/bin.png"
 image: "my-reading-list/kindle.jpg"
-date:   2016-01-01 00:00:00
 ---
 
 Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其实这个目标是相当容易的。我把我阅读过的书都列出来（倒序），给出封面和购买链接，和读完后的一句话感受。会持续更新...
