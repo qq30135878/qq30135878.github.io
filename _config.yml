@@ -1,5 +1,5 @@
 # Site settings
-title: "Music + Code & Me"
+title: "指数人"
 logo: bin.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
 email: 30135878@qq.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   <br/>联系我:
   <br/>邮箱：30135878@qq.com
   <br/>微信号：Archer
-url: "http://www.musiccode.me" # the base hostname & protocol for your site
+url: "http://zhishu.ren" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 # twitter_username: jekyllrb
 github_username:  qq30135878
