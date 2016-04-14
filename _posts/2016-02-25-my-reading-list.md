@@ -95,7 +95,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 [《欺骗时间:科学、性与衰老》](https://www.amazon.cn/dp/B00N0UV9YS)
 ![](./content/images/my-reading-list/B00N0UV9YS.jpg)
-2016-04 读后感想：科学也能如此通俗易懂。20年前写的书现在看来依然有借鉴意义。[更多内容](./cheating-time)
+2016-04 读后感想：科学也能如此通俗易懂。20年前写的书现在看来依然有借鉴意义。人类已经无法阻止我对生命科学的求知了！[更多内容](./cheating-time)
 
 ---
 

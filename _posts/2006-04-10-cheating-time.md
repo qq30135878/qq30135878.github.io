@@ -22,10 +22,10 @@ George Sacher的观点：大脑的重量与寿命的关系
 
 ## 以下是截图
 
-![](./content/images/cheating-time/IMG_20160325_164038_1460502377655.png)
-![](./content/images/cheating-time/IMG_20160402_220053.png)
-![](./content/images/cheating-time/IMG_20160402_221929.png)
-![](./content/images/cheating-time/IMG_20160402_221938.png)
-![](./content/images/cheating-time/IMG_20160402_225825.png)
-![](./content/images/cheating-time/IMG_20160402_225834.png)
-![](./content/images/cheating-time/IMG_20160404_001811.png)
+![](./content/images/cheating-time/IMG_20160325_164038_1460502377655.jpg)
+![](./content/images/cheating-time/IMG_20160402_220053.jpg)
+![](./content/images/cheating-time/IMG_20160402_221929.jpg)
+![](./content/images/cheating-time/IMG_20160402_221938.jpg)
+![](./content/images/cheating-time/IMG_20160402_225825.jpg)
+![](./content/images/cheating-time/IMG_20160402_225834.jpg)
+![](./content/images/cheating-time/IMG_20160404_001811.jpg)
