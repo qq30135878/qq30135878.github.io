@@ -16,4 +16,4 @@ image: "coursera-peking-university-bioinformatics/cover.jpg"
 ![](./content/images/coursera-peking-university-bioinformatics/banner.jpg)
 ![](./content/images/coursera-peking-university-bioinformatics/email.jpg)
 ![](./content/images/coursera-peking-university-bioinformatics/summary.jpg)
-![](./content/images/coursera-peking-university-bioinformatics/cover.jpg)
+![](./content/images/coursera-peking-university-bioinformatics/certificate.jpg)
