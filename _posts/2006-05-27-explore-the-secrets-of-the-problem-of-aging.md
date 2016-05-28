@@ -9,8 +9,11 @@ avatar: "authors/bin.png"
 ## Tags
 
 http://www.calicolabs.com/
+
 老年学 gerontology
+
 老年病学 geriatrics
+
 衰老 senescence
 
 ## 以下是截图
