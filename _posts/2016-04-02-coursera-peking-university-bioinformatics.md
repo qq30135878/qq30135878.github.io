@@ -11,7 +11,7 @@ image: "coursera-peking-university-bioinformatics/cover.jpg"
 
 # 人类已经无法阻止我对生命科学的求知了！
 
-这是证书:[证书](https://www.coursera.org/account/accomplishments/certificate/ESNLZ8DM3A98)
+这是证书:[证书](https://www.coursera.org/account/accomplishments/records/HPMJRST93KCJ)
 
 ![](./content/images/coursera-peking-university-bioinformatics/banner.jpg)
 ![](./content/images/coursera-peking-university-bioinformatics/email.jpg)
