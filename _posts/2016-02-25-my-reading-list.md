@@ -101,7 +101,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 [《癌症传》](https://www.amazon.cn/dp/B00B0U2CYG)
 ![](./content/images/my-reading-list/B00B0U2CYG.jpg)
-2016-07 读后感想：疾病、健康，死亡、生命，其它都无足轻重！
+2016-07 读后感想：疾病、健康，死亡、生命，其它都无足轻重！[更多内容](./a-biography-of-cancer)
 
 ---
 
