@@ -15,6 +15,6 @@ avatar: "authors/bin.png"
 
 ## 以下是截图
 
-![](./content/images/gene-decoding/2016-09-06 08.00.02.jpg)
-![](./content/images/gene-decoding/2016-09-06 08.04.46.jpg)
-![](./content/images/gene-decoding/2016-09-06 17.11.11.jpg)
+![](./content/images/the-human-brain-a-guided-tour/2016-09-06-08.00.02.jpg)
+![](./content/images/the-human-brain-a-guided-tour/2016-09-06-08.04.46.jpg)
+![](./content/images/the-human-brain-a-guided-tour/2016-09-06-17.11.11.jpg)
