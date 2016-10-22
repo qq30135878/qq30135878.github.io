@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️⭐️⭐️ 《赢》 2016-10
 * ⭐️⭐️ 《精力管理:管理精力,而非时间》 2016-10
 * ⭐️⭐️⭐️⭐️ 《爆款：如何打造超级IP》 2016-10
 * ⭐️⭐️⭐️ 《人脑之谜》 2016-09
@@ -100,6 +101,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《赢》](https://www.amazon.cn/dp/B00EDY9QHM)
+![](./content/images/my-reading-list/B00EDY9QHM.jpg)
+2016-10 读后感想：作者是大名鼎鼎GE的CEO，他在几十年职业生涯中总结的企业如何赢的经验。[更多内容](./winning)
+
+---
 
 [《精力管理:管理精力,而非时间·互联网+时代顺势腾飞的关键》](https://www.amazon.cn/dp/B01462ZMUA)
 ![](./content/images/my-reading-list/B01462ZMUA.jpg)
