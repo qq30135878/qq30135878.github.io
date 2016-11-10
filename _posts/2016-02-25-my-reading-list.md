@@ -14,6 +14,8 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️⭐️⭐️ 《神秘的量子生命》 2016-11
+* ⭐️⭐️ 《合成生物学及应用》 2016-11
 * ⭐️⭐️⭐️⭐️⭐️ 《生命的未来》 2016-10
 * ⭐️⭐️⭐️⭐️ 《赢》 2016-10
 * ⭐️⭐️ 《精力管理:管理精力,而非时间》 2016-10
@@ -102,6 +104,18 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《神秘的量子生命》](https://www.amazon.cn/dp/B01JA1R520)
+![](./content/images/my-reading-list/B01JA1R520.jpg)
+2016-11 读后感想：用物理学中的量子力学来解释了生命现象，书中的各种比喻很经典，避开了晦涩难懂的公式，数字，用比喻让门外汉也能对读懂深奥的原理，不错的一本书书和理论。[更多内容](./life-on-the-edge)
+
+---
+
+[《合成生物学及应用》](https://www.amazon.cn/dp/B00ISTJLFU)
+![](./content/images/my-reading-list/B00ISTJLFU.jpg)
+2016-11 读后感想：很多作者一起做的一本书，介绍了合成生物学在各个领域的发展现状，社会伦理和未来的发展可能，还有一些国家对合成生物学的规范。想了解合成生物学的概况可以一读。
+
+---
 
 [《生命的未来》](https://www.amazon.cn/dp/B01I2QUTTU)
 ![](./content/images/my-reading-list/B01I2QUTTU.jpg)
