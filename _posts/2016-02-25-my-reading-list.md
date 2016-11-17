@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️ 《如何高效学习》 2016-11
 * ⭐️⭐️⭐️⭐️⭐️ 《富足：改变人类未来的4大力量》 2016-11
 * ⭐️⭐️⭐️⭐️ 《神秘的量子生命》 2016-11
 * ⭐️⭐️ 《合成生物学及应用》 2016-11
@@ -105,6 +106,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《如何高效学习》](https://www.amazon.cn/dp/B00HZGVG5A)
+![](./content/images/my-reading-list/B00HZGVG5A.jpg)
+2016-11 读后感想：和中国大学不同美国大学是宽进严出的，作者能1年学完MIT4年的课程确实比较牛逼，肯定是有借鉴意义的，重点是如何去利用，总结出一套自己适用的方法。
+
+---
 
 [《富足：改变人类未来的4大力量》](https://www.amazon.cn/dp/B00KRVH88O)
 ![](./content/images/my-reading-list/B00KRVH88O.jpg)
