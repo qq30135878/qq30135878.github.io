@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️ 《生物知识》 2016-11
 * ⭐️⭐️ 《有趣的生物化学》 2016-11
 * ⭐️⭐️ 《如何高效学习》 2016-11
 * ⭐️⭐️⭐️⭐️⭐️ 《富足：改变人类未来的4大力量》 2016-11
@@ -107,6 +108,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《生物知识》](https://www.amazon.cn/dp/B00TGZXSKO)
+![](./content/images/my-reading-list/B00TGZXSKO.jpg)
+2016-11 读后感想：说了一下生物学的一些重大事件和名人，没有什么深度和观点。
+
+---
 
 [《有趣的生物化学》](https://www.amazon.cn/dp/B00AAPJ6VO)
 ![](./content/images/my-reading-list/B00AAPJ6VO.jpg)
