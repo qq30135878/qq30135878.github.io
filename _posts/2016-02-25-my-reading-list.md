@@ -317,4 +317,4 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 [《指数型组织:打造独角兽公司的11个最强属性》](http://www.amazon.cn/dp/B016XI5LJW)
 
 ![](./content/images/my-reading-list/B016XI5LJW.jpg)
-2015-12 读后感想：指数人就是看了这本书后收到的启发。[更多内容](./exo)
+2015-12 读后感想：指数人就是看了这本书后受到的启发。[更多内容](./exo)
