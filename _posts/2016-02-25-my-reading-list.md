@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️⭐️⭐️ 《精进：如何成为一个很厉害的人》 2017-01
 * ⭐️⭐️⭐️ 《癌症·真相：医生也在读》 2017-01
 * ⭐️⭐️⭐️ 《离经叛道：不按常理出牌的人如何改变世界》 2017-01
 * ⭐️⭐️⭐️ 《医疗大数据》 2016-12
@@ -112,6 +113,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《精进：如何成为一个很厉害的人》](https://www.amazon.cn/dp/B01GDK26FW)
+![](./content/images/my-reading-list/B01GDK26FW.jpg)
+2017-01 读后感想：确实是一本不错的书，总结了一些个人成功学的要素。[更多内容](./jingjin)
+
+---
 
 [《癌症·真相：医生也在读》](https://www.amazon.cn/dp/B017CLDBI2)
 ![](./content/images/my-reading-list/B017CLDBI2.jpg)
