@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️⭐️⭐️ 《身体中的宇宙》 2017-01
 * ⭐️⭐️⭐️⭐️ 《精进：如何成为一个很厉害的人》 2017-01
 * ⭐️⭐️⭐️ 《癌症·真相：医生也在读》 2017-01
 * ⭐️⭐️⭐️ 《离经叛道：不按常理出牌的人如何改变世界》 2017-01
@@ -113,6 +114,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《身体中的宇宙》](https://www.amazon.cn/dp/B01M6E8TN9)
+![](./content/images/my-reading-list/B01M6E8TN9.jpg)
+2017-01 读后感想：从古生物学聊到宇宙，聊到人类，作者天马行空的思路和博学令人印象深刻。[更多内容](./the-universe-within)
+
+---
 
 [《精进：如何成为一个很厉害的人》](https://www.amazon.cn/dp/B01GDK26FW)
 ![](./content/images/my-reading-list/B01GDK26FW.jpg)
