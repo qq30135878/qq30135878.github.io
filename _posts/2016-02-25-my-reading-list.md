@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+* ⭐️⭐️⭐️ 《未来简史》 2017-03
 * ⭐️⭐️⭐️ 《设计冲刺：谷歌风投如何5天完成产品迭代》 2017-03
 * ⭐️⭐️⭐️ 《生物衰老:研究方法与实验方案》 2017-01
 * ⭐️⭐️⭐️⭐️⭐️ 《遗传的革命》 2017-01
@@ -117,6 +118,11 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《未来简史》](https://www.amazon.cn/dp/B01MZ4Z5DQ)
+![](./content/images/my-reading-list/B01MZ4Z5DQ.jpg)
+2017-03 读后感想：最近叫什么简史的书很多，人类简史，未来简史，万物简史。这本书给了不少启发，但是未必未来就是那个样子。[更多内容](./a-brief-history-of-tomorrow)
+
 
 [《设计冲刺：谷歌风投如何5天完成产品迭代》](https://www.amazon.cn/dp/B01IP2PYR8)
 ![](./content/images/my-reading-list/B01IP2PYR8.jpg)
