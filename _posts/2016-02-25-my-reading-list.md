@@ -14,6 +14,8 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2016年***
 
+
+* ⭐️⭐️ 《2小时玩转专利》 2017-03
 * ⭐️⭐️⭐️ 《未来简史》 2017-03
 * ⭐️⭐️⭐️ 《设计冲刺：谷歌风投如何5天完成产品迭代》 2017-03
 * ⭐️⭐️⭐️ 《生物衰老:研究方法与实验方案》 2017-01
@@ -119,14 +121,26 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 ***后面每一本都有详情***
 
+---
+
+[《2小时玩转专利》](https://www.amazon.cn/dp/B01MRPI2L4)
+![](./content/images/my-reading-list/B01MRPI2L4.jpg)
+2017-03 读后感想：第一次阅读专利的书，感觉专利还是很重要的，有想法的人赶快申请专利吧。
+
+---
+
 [《未来简史》](https://www.amazon.cn/dp/B01MZ4Z5DQ)
 ![](./content/images/my-reading-list/B01MZ4Z5DQ.jpg)
 2017-03 读后感想：最近叫什么简史的书很多，人类简史，未来简史，万物简史。这本书给了不少启发，但是未必未来就是那个样子。[更多内容](./a-brief-history-of-tomorrow)
+
+---
 
 
 [《设计冲刺：谷歌风投如何5天完成产品迭代》](https://www.amazon.cn/dp/B01IP2PYR8)
 ![](./content/images/my-reading-list/B01IP2PYR8.jpg)
 2017-03 读后感想：其实我感觉有的东西也没什么好讨论的，倒是第四天的方法更像是我所谓的0.1版本产品，总之精髓是花最小代价获取用户反馈。[更多内容](./sprint)
+
+---
 
 
 [《生物衰老:研究方法与实验方案》](https://www.amazon.cn/dp/B008EQS4O6)
