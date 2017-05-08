@@ -9,6 +9,9 @@ avatar: "authors/bin.png"
 
 ## 以下是截图
 
+![](./content/images/how-brains-think/IMG_3744.jpg)
+![](./content/images/how-brains-think/IMG_3745.jpg)
+![](./content/images/how-brains-think/IMG_3746.jpg)
 ![](./content/images/how-brains-think/IMG_3814.jpg)
 ![](./content/images/how-brains-think/IMG_3815.jpg)
 ![](./content/images/how-brains-think/IMG_3816.jpg)
