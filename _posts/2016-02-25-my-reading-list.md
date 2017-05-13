@@ -14,7 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
-
+* ⭐️⭐️ 《基因与细胞》 2017-05
 * ⭐️⭐️⭐️ 《生命的季节:生生不息背后的生物节律》 2017-05
 * ⭐️⭐️⭐️⭐️ 《大脑如何思维:智力演化的今昔》 2017-04
 * ⭐️⭐️⭐️⭐️ 《再创世纪:合成生物学将如何重新创造自然和我们人类》 2017-04
@@ -126,6 +126,13 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+
+[《基因与细胞》](https://www.amazon.cn/dp/B01N01YZDG)
+![](./content/images/my-reading-list/B01N01YZDG.jpg)
+2017-05 读后感想：编录了很多生命科学的进展和新发现，我就当读小故事一样读一下，找找灵感吧。[更多内容](./genes-and-cells)
+
+---
 
 [《生命的季节:生生不息背后的生物节律》](https://www.amazon.cn/dp/B01FFKRYJ4)
 ![](./content/images/my-reading-list/B01FFKRYJ4.jpg)
