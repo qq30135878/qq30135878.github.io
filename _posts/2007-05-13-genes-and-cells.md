@@ -16,6 +16,7 @@ avatar: "authors/bin.png"
 ![](./content/images/genes-and-cells/IMG_4101.jpg)
 ![](./content/images/genes-and-cells/IMG_4102.jpg)
 ![](./content/images/genes-and-cells/IMG_4103.jpg)
+![](./content/images/genes-and-cells/IMG_4104.jpg)
 ![](./content/images/genes-and-cells/IMG_4111.jpg)
 ![](./content/images/genes-and-cells/IMG_4112.jpg)
 ![](./content/images/genes-and-cells/IMG_4113.jpg)
