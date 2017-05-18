@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️ 《生命的节奏》 2017-05
 * ⭐️⭐️ 《基因与细胞》 2017-05
 * ⭐️⭐️⭐️ 《生命的季节:生生不息背后的生物节律》 2017-05
 * ⭐️⭐️⭐️⭐️ 《大脑如何思维:智力演化的今昔》 2017-04
@@ -127,6 +128,11 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 ***后面每一本都有详情***
 
+[《生命的节奏》](http://baike.baidu.com/link?url=y8IXIO6uTMAuDBtR1qmwOQ5ly1C9bCuytirryCceCMIb5XZQ9UnsiphX6JvXLz8Z8QfBy6sFIq_V97Rct6k_zX_MgwvNQmPThJBmG7a-wRj9ENTY02vkkyCD7TMAQjQsIdBJfTxiiaVMRs4JC8Ewua)
+![](./content/images/my-reading-list/rhythms-of-life.jpg)
+2017-05 读后感想：今天，我们生活在一个对电梯门关闭得太慢都会抱怨的社会里，我们得准备好去改变我们得时间观念，更深刻地认识自己，并决定自己将成为时间的智者还是蠢人。[更多内容](./rhythms-of-life)
+
+---
 
 [《基因与细胞》](https://www.amazon.cn/dp/B01N01YZDG)
 ![](./content/images/my-reading-list/B01N01YZDG.jpg)
