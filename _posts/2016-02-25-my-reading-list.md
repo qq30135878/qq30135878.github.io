@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️⭐️ 《基础生命科学》 2017-05
 * ⭐️⭐️⭐️ 《生命的节奏》 2017-05
 * ⭐️⭐️ 《基因与细胞》 2017-05
 * ⭐️⭐️⭐️ 《生命的季节:生生不息背后的生物节律》 2017-05
@@ -127,6 +128,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《基础生命科学》](https://www.amazon.cn/dp/B00114JL3G)
+![](./content/images/my-reading-list/B00114JL3G.jpg)
+2017-05 读后感想：很久就对国产书失望了，但是这本书例外了。书的品质很高，特别是彩色的，插图非常棒，就是冲着这个插图才给的4星。内容很多，不过都说了大概，毕竟书名是基础生命科学嘛。[更多内容](./essentials-of-life-science)
+
+---
 
 [《生命的节奏》](http://baike.baidu.com/link?url=y8IXIO6uTMAuDBtR1qmwOQ5ly1C9bCuytirryCceCMIb5XZQ9UnsiphX6JvXLz8Z8QfBy6sFIq_V97Rct6k_zX_MgwvNQmPThJBmG7a-wRj9ENTY02vkkyCD7TMAQjQsIdBJfTxiiaVMRs4JC8Ewua)
 ![](./content/images/my-reading-list/rhythms-of-life.jpg)
