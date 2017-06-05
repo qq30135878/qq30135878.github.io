@@ -15,6 +15,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ***2017年***
 
 
+* ⭐️⭐️⭐️⭐️⭐️ 《基因之河》 2017-06
 * ⭐️⭐️⭐️ 《微生物学》 2017-06
 * ⭐️⭐️⭐️ 《生命的节奏》 2017-05
 * ⭐️⭐️ 《基因与细胞》 2017-05
@@ -129,6 +130,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《基因之河》](https://www.amazon.cn/dp/B00AZX8FW2)
+![](./content/images/my-reading-list/B00AZX8FW2.jpg)
+2017-06 读后感想：不愧是大师之作，之前看过理查德道金斯的自私的基因，也是非常的精彩，作者给我的印象就是非常善于论述一个观点，举例，正反，还有措辞都是非常精妙、准确。作者将生命的进化过程比作一条基因之河，基因在时间长河中相互碰撞、混合和重组。计划把他的书都重新读一遍，或者两遍、三遍。[更多内容](./river-out-of-eden)
+
+---
 
 [《微生物学》](https://www.amazon.cn/dp/B01BWN3PDC)
 ![](./content/images/my-reading-list/B01BWN3PDC.jpg)
