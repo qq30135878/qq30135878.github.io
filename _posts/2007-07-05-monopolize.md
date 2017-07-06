@@ -8,5 +8,5 @@ avatar: "authors/bin.png"
 
 ## 以下是截图
 
-![](./content/images/monopolize/screenshot_2017_07_02T21_39_50+0800.jpg)
-![](./content/images/monopolize/screenshot_2017_07_02T21_49_06+0800.jpg)
+![](./content/images/monopolize/screenshot_2017_07_02T21_39_50+0800.png)
+![](./content/images/monopolize/screenshot_2017_07_02T21_49_06+0800.png)
