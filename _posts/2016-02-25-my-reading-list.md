@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️ 《上帝的手术刀:基因编辑简史》 2017-07
 * ⭐️⭐️ 《黄瓜果实成熟衰老特性》 2017-06
 * ⭐️⭐️⭐️⭐️⭐️ 《基因之河》 2017-06
 * ⭐️⭐️⭐️ 《微生物学》 2017-06
@@ -130,6 +131,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《上帝的手术刀:基因编辑简史》](https://www.amazon.cn/dp/B071R314MH)
+![](./content/images/my-reading-list/B071R314MH.jpg)
+2017-07 读后感想：从达尔文、孟德尔一直说到当今最流行的CRISPR技术，而且说的浅显易懂。技术日新月异，希望有一天人类能真正的操纵基因，成为上帝！
+
+---
 
 [《黄瓜果实成熟衰老特性》](https://www.amazon.cn/dp/B0046W8AUU)
 ![](./content/images/my-reading-list/B0046W8AUU.jpg)
