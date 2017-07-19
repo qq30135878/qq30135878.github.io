@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️ 《发育生物学实验》 2017-07
 * ⭐️⭐️ 《极简主义》 2017-07
 * ⭐️⭐️⭐️ 《创业就是要细分垄断》 2017-07
 * ⭐️⭐️⭐️ 《上帝的手术刀:基因编辑简史》 2017-07
@@ -133,6 +134,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《发育生物学实验》](https://www.amazon.cn/dp/B01APNRLFI)
+![](./content/images/my-reading-list/B01APNRLFI.jpg)
+2017-07 读后感想：研究精子、卵子、受精卵、胚胎等实验，大概的看了一下。[更多内容](./experiments-in-developmental-biology)
+
+---
 
 [《极简主义》](https://www.amazon.cn/dp/B071L34WBS)
 ![](./content/images/my-reading-list/B071L34WBS.jpg)
