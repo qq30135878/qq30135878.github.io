@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️ 《模式生物毒理学--基于对于秀丽线虫研究的总结与思考》 2017-07
 * ⭐️⭐️ 《发育生物学实验》 2017-07
 * ⭐️⭐️ 《极简主义》 2017-07
 * ⭐️⭐️⭐️ 《创业就是要细分垄断》 2017-07
@@ -134,6 +135,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《模式生物毒理学--基于对于秀丽线虫研究的总结与思考》](https://www.amazon.cn/dp/B00D6ZY23W)
+![](./content/images/my-reading-list/B00D6ZY23W.jpg)
+2017-07 读后感想：是一本基于秀丽线虫为具体的模式体系系统介绍模式生物毒理学的专著，结合了作者实验室近些年在本领域系统的研究进展。对于毒理学或环境科学的研究者或对模式生物毒理学感兴趣的人来说，是一本不错的参考手册。[更多内容](./model-organism-toxicology)
+
+---
 
 [《发育生物学实验》](https://www.amazon.cn/dp/B01APNRLFI)
 ![](./content/images/my-reading-list/B01APNRLFI.jpg)
