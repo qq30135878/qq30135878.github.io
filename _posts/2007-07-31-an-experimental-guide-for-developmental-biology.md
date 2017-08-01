@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "《垃圾DNA》读后感"
+title:  "《发育生物学实验》读后感"
 subtitle: "An Experimental Guide for Developmental Biology"
 author: "张斌"
 avatar: "authors/bin.png"
