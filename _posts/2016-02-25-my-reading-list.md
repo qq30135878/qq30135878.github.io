@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️ 《发育生物学实验》 2017-07
 * ⭐️⭐️⭐️⭐️ 《垃圾DNA》 2017-07
 * ⭐️⭐️ 《模式生物毒理学--基于对于秀丽线虫研究的总结与思考》 2017-07
 * ⭐️⭐️ 《发育生物学实验》 2017-07
@@ -136,6 +137,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《发育生物学实验》](https://www.amazon.cn/dp/B00JZEB97A)
+![](./content/images/my-reading-list/B00JZEB97A.jpg)
+2017-07 读后感想：和前几天看的另外一本书名一摸一样。不过比之前那本写的好一些，介绍了不同模式生物，如何用不同模式生物做实验的实验案例。据说还有配套的实验操作视频，不过我还没看视频。[更多内容](./an-experimental-guide-for-developmental-biology)
+
+---
 
 [《垃圾DNA》](https://www.amazon.cn/dp/B06XDMDYDN)
 ![](./content/images/my-reading-list/B06XDMDYDN.jpg)
