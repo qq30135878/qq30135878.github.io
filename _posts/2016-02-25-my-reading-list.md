@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️ 《解忧杂货店》 2017-08
 * ⭐️⭐️⭐️ 《发育生物学实验》 2017-07
 * ⭐️⭐️⭐️⭐️ 《垃圾DNA》 2017-07
 * ⭐️⭐️ 《模式生物毒理学--基于对于秀丽线虫研究的总结与思考》 2017-07
@@ -137,6 +138,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 
 
 ***后面每一本都有详情***
+
+[《解忧杂货店》](https://www.amazon.cn/dp/B00JZ96ZI8)
+![](./content/images/my-reading-list/B00JZ96ZI8.jpg)
+2017-08 读后感想：通过一个主线故事把其它故事串起来了，构思巧妙，也给人深思和启迪。不过感觉没有什么关于人性的描写，这方面比较少，可能不是作者的重点。[更多内容](./jieyou)
+
+---
 
 [《发育生物学实验》](https://www.amazon.cn/dp/B00JZEB97A)
 ![](./content/images/my-reading-list/B00JZEB97A.jpg)
