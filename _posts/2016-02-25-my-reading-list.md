@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️ 《2小时品牌素养：详解王老吉成功之道》 2017-09
 * ⭐️⭐️⭐️⭐️ 《定位:有史以来对美国营销影响最大的观念》 2017-09
 * ⭐️⭐️ 《史玉柱自述:我的营销心得》 2017-08
 * ⭐️⭐️⭐️ 《解忧杂货店》 2017-08
@@ -138,8 +139,13 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 * ⭐️⭐️⭐️ 《启动大脑》
 * ⭐️⭐️⭐️⭐️ 《免费》
 
-
 ***后面每一本都有详情***
+
+[《2小时品牌素养：详解王老吉成功之道》](https://www.amazon.cn/dp/B005KF7WEM)
+![](./content/images/my-reading-list/B005KF7WEM.jpg)
+2017-08 读后感想：算是在中国的实战吧。唯一的问题就是和定位这本书重复内容太多了。[更多内容](./positioning-in-china)
+
+---
 
 [《定位:有史以来对美国营销影响最大的观念》](https://www.amazon.cn/dp/B004IPRAOM)
 ![](./content/images/my-reading-list/B004IPRAOM.jpg)
