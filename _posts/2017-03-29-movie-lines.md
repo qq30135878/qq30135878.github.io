@@ -22,3 +22,7 @@ image: "movie-lines/cover.jpg"
 ![](./content/images/movie-lines/Screen Shot 2017-03-08 at 1.43.22 AM.png)
 ![](./content/images/movie-lines/Screen Shot 2017-03-08 at 1.43.37 AM.png)
 ![](./content/images/movie-lines/Screen Shot 2017-03-08 at 1.43.47 AM.png)
+
+##### 桥段3
+![](./content/images/movie-lines/Screen Shot 2017-09-19 at 10.55.10 PM.png)
+![](./content/images/movie-lines/Screen Shot 2017-09-19 at 10.55.19 PM.png)
