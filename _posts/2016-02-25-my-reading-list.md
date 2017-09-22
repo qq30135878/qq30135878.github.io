@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️ 《人生定位》 2017-09
 * ⭐️⭐️ 《2小时品牌素养：详解王老吉成功之道》 2017-09
 * ⭐️⭐️⭐️⭐️ 《定位:有史以来对美国营销影响最大的观念》 2017-09
 * ⭐️⭐️ 《史玉柱自述:我的营销心得》 2017-08
@@ -140,6 +141,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 * ⭐️⭐️⭐️⭐️ 《免费》
 
 ***后面每一本都有详情***
+
+[《人生定位》](https://www.amazon.cn/dp/B009WMC4Z6)
+![](./content/images/my-reading-list/B009WMC4Z6.jpg)
+2017-08 读后感想：不错，人生需要6批马才能飞奔。给自己定好位，占领别人的心智。[更多内容](./horse-sense)
+
+---
 
 [《2小时品牌素养：详解王老吉成功之道》](https://www.amazon.cn/dp/B005KF7WEM)
 ![](./content/images/my-reading-list/B005KF7WEM.jpg)
