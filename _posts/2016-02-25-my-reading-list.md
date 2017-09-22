@@ -14,6 +14,7 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 ---
 ***2017年***
 
+* ⭐️⭐️⭐️ 《迷恋:如何制造持久的吸引力》 2017-09
 * ⭐️⭐️⭐️ 《人生定位》 2017-09
 * ⭐️⭐️ 《2小时品牌素养：详解王老吉成功之道》 2017-09
 * ⭐️⭐️⭐️⭐️ 《定位:有史以来对美国营销影响最大的观念》 2017-09
@@ -141,6 +142,12 @@ Reading makes a full man. 我在阅读上的OKR是每个月至少一本书，其
 * ⭐️⭐️⭐️⭐️ 《免费》
 
 ***后面每一本都有详情***
+
+[《迷恋:如何制造持久的吸引力》](https://www.amazon.cn/dp/B06XTPK2TB)
+![](./content/images/my-reading-list/B06XTPK2TB.jpg)
+2017-08 读后感想：迷恋是一种魔法，让你上瘾，占领你所有的心智。[更多内容](./fascinate)
+
+---
 
 [《人生定位》](https://www.amazon.cn/dp/B009WMC4Z6)
 ![](./content/images/my-reading-list/B009WMC4Z6.jpg)
